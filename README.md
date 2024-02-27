@@ -188,5 +188,6 @@
 |**Diane Alves**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/Diane-Moreno)|
 |**Elisa Carvalho**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/elisadsc)|
 |**Rita Hecht**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/ritahecht)|
+|**Nicholas Guilherme**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/NicholasGui29)|
 |**Thiago Bueno**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/TjBueno)|
 |**Víctor Henrique**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/ViktorHenrique)|
