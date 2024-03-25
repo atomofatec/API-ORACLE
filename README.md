@@ -1,4 +1,4 @@
-# API-GREENNEAT
+# API-ORACLE
 
 
 <h1 align="center">API 5º Semestre 2024-1 - Equipe Átomo</h1>
