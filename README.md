@@ -70,16 +70,15 @@
 | Painel Inicial (Dashboard) | Visualização gráfica de dados relevantes e indicadores chave de desempenho | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
 | Acompanhamento de Desenvolvimento de Conhecimento | Tela para monitorar o conhecimento dos parceiros registrados e visualizar gráficos ou relatórios sobre o progresso | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
 | Administração do Sistema | Tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão) | 🟥🟥🟥 | 🔧 Em progresso | 🔴 <a href='#adm'> User Story 7 </a> |
-| Cadastro de Parceiros | Usuário ‘Funcionário’ cadastra usuário ‘Parceiro’ | 🟨🟨 | 🔧 Em progresso | 🔴 <a href='cad_parc'> User Story 4 </a> |
-| Atualização de Parceiros | Usuário ‘Funcionário’ gerencia conta do usuário ‘Parceiro’ | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='updt_parc'> User Story 5 </a> |
-| Visualizar e assinar Program Tracks | Usuário ‘Parceiro’ visualiza e assina melhor opção dentro das Program Tracks | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='program_tracks'> User Story 9 </a> |
-| Provas de conhecimento | Usuário ‘Parceiro’ realiza provas de conhecimento | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='provas'> User Story 10 </a> |
-| Visualização de dados pessoais | Usuário pode visualizar e editar seus dados pessoais | 🟩 | ❌ Não iniciado | 🔴 <a href='view_dados'> User Story 8 </a> |
-| Recuperação de Senha | Sistema para recuperar sua senha | 🟩 | ❌ Não iniciado | 🔴 <a href='senha'> User Story 2 </a> |
-| Mensagens e Notificações | Mensagens e notificações do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='notificacoes'> User Story 11 </a> |
-| Ajuda e Suporte | Tela de ajuda e suporte | 🟩 | ❌ Não iniciado | 🔴 <a href='suporte'> User Story 12 </a> |
-| Telas de Erro | Telas de erro do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='erro'> User Story 13 </a> |
-
+| Cadastro de Parceiros | Usuário ‘Funcionário’ cadastra usuário ‘Parceiro’ | 🟨🟨 | 🔧 Em progresso | 🔴 <a href='#cad_parc'> User Story 4 </a> |
+| Atualização de Parceiros | Usuário ‘Funcionário’ gerencia conta do usuário ‘Parceiro’ | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Visualizar e assinar Program Tracks | Usuário ‘Parceiro’ visualiza e assina melhor opção dentro das Program Tracks | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
+| Provas de conhecimento | Usuário ‘Parceiro’ realiza provas de conhecimento | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#provas'> User Story 10 </a> |
+| Visualização de dados pessoais | Usuário pode visualizar e editar seus dados pessoais | 🟩 | ❌ Não iniciado | 🔴 <a href='#view_dados'> User Story 8 </a> |
+| Recuperação de Senha | Sistema para recuperar sua senha | 🟩 | ❌ Não iniciado | 🔴 <a href='#senha'> User Story 2 </a> |
+| Mensagens e Notificações | Mensagens e notificações do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#notificacoes'> User Story 11 </a> |
+| Ajuda e Suporte | Tela de ajuda e suporte | 🟩 | ❌ Não iniciado | 🔴 <a href='#suporte'> User Story 12 </a> |
+| Telas de Erro | Telas de erro do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#erro'> User Story 13 </a> |
 
 <br>
 
