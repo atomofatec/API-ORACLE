@@ -1,0 +1,6 @@
+[submodule "FRONT-ORACLE"]
+	path = FRONT-ORACLE
+	url = https://github.com/atomofatec/FRONT-ORACLE
+[submodule "BACK-ORACLE"]
+	path = BACK-ORACLE
+	url = https://github.com/atomofatec/BACK-ORACLE
