@@ -66,11 +66,11 @@
 
 | Tarefa | Descrição | Prioridade | Status | User Stories |
 | --- | --- | --- | --- | --- |
-| Login | Sistema de login de usuários | 🟥🟥🟥 | 🔧 Em progresso | 🔴 <a href='#login'> User Story 1 </a> |
+| Login | Sistema de login de usuários | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#login'> User Story 1 </a> |
 | Painel Inicial (Dashboard) | Visualização gráfica de dados relevantes e indicadores chave de desempenho | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
 | Acompanhamento de Desenvolvimento de Conhecimento | Tela para monitorar o conhecimento dos parceiros registrados e visualizar gráficos ou relatórios sobre o progresso | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
-| Administração do Sistema | Tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão) | 🟥🟥🟥 | 🔧 Em progresso | 🔴 <a href='#adm'> User Story 7 </a> |
-| Cadastro de Parceiros | Usuário ‘Funcionário’ cadastra usuário ‘Parceiro’ | 🟨🟨 | 🔧 Em progresso | 🔴 <a href='#cad_parc'> User Story 4 </a> |
+| Administração do Sistema | Tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão) | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#adm'> User Story 7 </a> |
+| Cadastro de Parceiros | Usuário ‘Funcionário’ cadastra usuário ‘Parceiro’ | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#cad_parc'> User Story 4 </a> |
 | Atualização de Parceiros | Usuário ‘Funcionário’ gerencia conta do usuário ‘Parceiro’ | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
 | Visualizar e assinar Program Tracks | Usuário ‘Parceiro’ visualiza e assina melhor opção dentro das Program Tracks | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
 | Provas de conhecimento | Usuário ‘Parceiro’ realiza provas de conhecimento | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#provas'> User Story 10 </a> |
@@ -86,37 +86,38 @@
 
 ## :calendar: Backlog das Sprints
 
-| Tarefa | Usuário | Descrição | Prioridade | Status |
-| --- | --- | --- | --- | --- |
-| Interface de Login | Geral | Interface para login de usuários | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de Login | Geral | Sistema que realiza o login de usuários | 🟥🟥🟥 | 🔧 Em progresso |
-| Interface de cadastro de Administradores/Funcionários | Administrador | Interface onde o Administrador consiga cadastrar um novo Administrador ou Funcionário | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de cadastro de Administradores/Funcionários  | Administrador | Sistema de cadastro de Administrador ou Funcionário | 🟥🟥🟥 | 🔧 Em progresso |
-| Interface de listagem de Administradores e Funcionários cadastrados | Administrador | Lista onde o Administrador verá todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de listagem de Administradores e Funcionários cadastrados | Administrador | Sistema para listar todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | 🔧 Em progresso |
-| Interface de edição e exclusão de Administradores/Funcionários  | Administrador | Interface onde o Administrador irá editar ou excluir Administradores ou Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de edição de Administradores/Funcionários  | Administrador | Sistema de edição de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de exclusão de Administradores/Funcionários  | Administrador | Sistema de exclusão de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
-| Interface de Cadastro de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá cadastrar um Parceiro | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de Cadastro de Parceiros  | Funcionário Oracle | Sistema de cadastro de Parceiros | 🟥🟥🟥 | 🔧 Em progresso |
-| Interface de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá editar ou excluir Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Sistema para atualização e exclusão de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Sistema que retorna os dados de desenvolvimento de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ❌ Não iniciado |
-| Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ❌ Não iniciado |
-| Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ❌ Não iniciado |
-| Interface para visualização e seleção de Program Tasks  | Parceiro Registrado | Interface para visualização e seleção de planos | 🟨🟨 | ❌ Não iniciado |
-| Sistema para seleção de Program Tasks  | Parceiro Registrado | Sistema para seleção de planos | 🟨🟨 | ❌ Não iniciado |
-| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ❌ Não iniciado |
-| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ❌ Não iniciado |
-| Interface de Visualização e Edição de Dados Pessoais | Geral | Interface onde o usuário poderá editar seus dados pessoais básicos | 🟩 | ❌ Não iniciado |
-| Sistema de Visualização e Edição de Dados Pessoais | Geral | Sistema para editar dados pessoais básicos do usuário | 🟩 | ❌ Não iniciado |
-| Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ❌ Não iniciado |
-| Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ❌ Não iniciado |
-| Telas de Erro | Geral |  | 🟩 | ❌ Não iniciado |
-| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟩 | ❌ Não iniciado |
-| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟩 | ❌ Não iniciado |
+| Tarefa | Usuário | Descrição | Prioridade | Status | User Stories |
+| --- | --- | --- | --- | --- | --- |
+| Interface de Login | Geral | Interface para login de usuários | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#login'> User Story 1 </a> |
+| Sistema de Login | Geral | Sistema que realiza o login de usuários | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#login'> User Story 1 </a> |
+| Interface de cadastro de Administradores/Funcionários | Administrador | Interface onde o Administrador consiga cadastrar um novo Administrador ou Funcionário | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#adm'> User Story 7 </a> |
+| Sistema de cadastro de Administradores/Funcionários  | Administrador | Sistema de cadastro de Administrador ou Funcionário | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#adm'> User Story 7 </a> |
+| Interface de listagem de Administradores e Funcionários cadastrados | Administrador | Lista onde o Administrador verá todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#adm'> User Story 7 </a> |
+| Sistema de listagem de Administradores e Funcionários cadastrados | Administrador | Sistema para listar todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#adm'> User Story 7 </a> |
+| Interface de edição e exclusão de Administradores/Funcionários | Administrador | Interface onde o Administrador irá editar ou excluir Administradores ou Funcionários | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#adm'> User Story 7 </a> |
+| Sistema de edição de Administradores/Funcionários  | Administrador | Sistema de edição de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#adm'> User Story 7 </a> |
+| Sistema de exclusão de Administradores/Funcionários  | Administrador | Sistema de exclusão de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#adm'> User Story 7 </a> |
+| Interface de Cadastro de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá cadastrar um Parceiro | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#cad_parc'> User Story 4 </a> |
+| Sistema de Cadastro de Parceiros  | Funcionário Oracle | Sistema de cadastro de Parceiros | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#cad_parc'> User Story 4 </a> |
+| Interface de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá editar ou excluir Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Sistema de Atualização de Parceiros  | Funcionário Oracle | Sistema para atualização de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Sistema de Exclusão de Parceiros | Funcionário Oracle | Sistema para exclusão de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
+| Sistema para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Sistema que retorna os dados de desenvolvimento de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
+| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
+| Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
+| Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
+| Interface para visualização e seleção de Program Tasks  | Parceiro Registrado | Interface para visualização e seleção de planos | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
+| Sistema para seleção de Program Tasks  | Parceiro Registrado | Sistema para seleção de planos | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
+| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ❌ Não iniciado | 🔴 <a href='#senha'> User Story 2 </a> |
+| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ❌ Não iniciado | 🔴 <a href='#senha'> User Story 2 </a> |
+| Interface de Visualização e Edição de Dados Pessoais | Geral | Interface onde o usuário poderá editar seus dados pessoais básicos | 🟩 | ❌ Não iniciado | 🔴 <a href='#view_dados'> User Story 8 </a> |
+| Sistema de Visualização e Edição de Dados Pessoais | Geral | Sistema para editar dados pessoais básicos do usuário | 🟩 | ❌ Não iniciado | 🔴 <a href='#view_dados'> User Story 8 </a> |
+| Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ❌ Não iniciado | 🔴 <a href='#notificacoes'> User Story 11 </a> |
+| Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ❌ Não iniciado | 🔴 <a href='#suporte'> User Story 12 </a> |
+| Telas de Erro | Geral | Interfaces de erros do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#erro'> User Story 13 </a> |
+| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟩 | ❌ Não iniciado | 🔴 <a href='#provas'> User Story 10 </a> |
+| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟩 | ❌ Não iniciado | 🔴 <a href='#provas'> User Story 10 </a> |
 
 <br>
 
@@ -128,14 +129,14 @@
 
 | Tarefa | Usuário | Descrição | Prioridade | Status |
 | --- | --- | --- | --- | --- |
-| Interface de Login | Geral | Interface para login de usuários | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de Login | Geral | Sistema que realiza o login de usuários | 🟥🟥🟥 | 🔧 Em progresso |
-| Interface de cadastro de Administradores/Funcionários | Administrador | Interface onde o Administrador consiga cadastrar um novo Administrador ou Funcionário | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de cadastro de Administradores/Funcionários  | Administrador | Sistema de cadastro de Administrador ou Funcionário | 🟥🟥🟥 | 🔧 Em progresso |
-| Interface de listagem de Administradores e Funcionários cadastrados | Administrador | Lista onde o Administrador verá todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de listagem de Administradores e Funcionários cadastrados | Administrador | Sistema para listar todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | 🔧 Em progresso |
-| Interface de Cadastro de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá cadastrar um Parceiro | 🟥🟥🟥 | 🔧 Em progresso |
-| Sistema de Cadastro de Parceiros  | Funcionário Oracle | Sistema de cadastro de Parceiros | 🟥🟥🟥 | 🔧 Em progresso |
+| Interface de Login | Geral | Interface para login de usuários | 🟥🟥🟥 | ✅ Finalizada |
+| Sistema de Login | Geral | Sistema que realiza o login de usuários | 🟥🟥🟥 | ✅ Finalizada |
+| Interface de cadastro de Administradores/Funcionários | Administrador | Interface onde o Administrador consiga cadastrar um novo Administrador ou Funcionário | 🟥🟥🟥 | ✅ Finalizada |
+| Sistema de cadastro de Administradores/Funcionários  | Administrador | Sistema de cadastro de Administrador ou Funcionário | 🟥🟥🟥 | ✅ Finalizada |
+| Interface de listagem de Administradores e Funcionários cadastrados | Administrador | Lista onde o Administrador verá todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | ✅ Finalizada |
+| Sistema de listagem de Administradores e Funcionários cadastrados | Administrador | Sistema para listar todos os Administradores e Funcionários cadastrados | 🟥🟥🟥 | ✅ Finalizada |
+| Interface de Cadastro de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá cadastrar um Parceiro | 🟥🟥🟥 | ✅ Finalizada |
+| Sistema de Cadastro de Parceiros  | Funcionário Oracle | Sistema de cadastro de Parceiros | 🟥🟥🟥 | ✅ Finalizada |
 
 <h1> </h1>
 
@@ -143,13 +144,13 @@
 
 | Tarefa | Usuário | Descrição | Prioridade | Status |
 | --- | --- | --- | --- | --- |
-| Interface de edição e exclusão de Administradores/Funcionários  | Administrador | Interface onde o Administrador irá editar ou excluir Administradores ou Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de edição de Administradores/Funcionários  | Administrador | Sistema de edição de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de exclusão de Administradores/Funcionários  | Administrador | Sistema de exclusão de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
+| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
+| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ❌ Não iniciado |
 | Interface de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá editar ou excluir Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Sistema para atualização e exclusão de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Interface de Visualização e Edição de Dados Pessoais | Geral | Interface onde o usuário poderá editar seus dados pessoais básicos | 🟩 | ❌ Não iniciado |
-| Sistema de Visualização e Edição de Dados Pessoais | Geral | Sistema para editar dados pessoais básicos do usuário | 🟩 | ❌ Não iniciado |
+| Sistema de Atualização de Parceiros  | Funcionário Oracle | Sistema para atualização de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
+| Sistema de Exclusão de Parceiros  | Funcionário Oracle | Sistema para exclusão de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
+| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟨🟨 | ❌ Não iniciado |
+| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟨🟨 | ❌ Não iniciado |
 
 <h1> </h1>
 
@@ -157,13 +158,14 @@
 
 | Tarefa | Usuário | Descrição | Prioridade | Status |
 | --- | --- | --- | --- | --- |
-| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
+| Interface de edição e exclusão de Administradores/Funcionários  | Administrador | Interface onde o Administrador irá editar ou excluir Administradores ou Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
+| Sistema de edição de Administradores/Funcionários  | Administrador | Sistema de edição de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
+| Sistema de exclusão de Administradores/Funcionários  | Administrador | Sistema de exclusão de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado |
 | Sistema para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Sistema que retorna os dados de desenvolvimento de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ❌ Não iniciado |
-| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟨🟨 | ❌ Não iniciado |
-| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟨🟨 | ❌ Não iniciado |
-| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ❌ Não iniciado |
-| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ❌ Não iniciado |
+| Interface para visualização e seleção de Program Tasks  | Parceiro Registrado | Interface para visualização e seleção de planos | 🟨🟨 | ❌ Não iniciado |
+| Sistema para seleção de Program Tasks  | Parceiro Registrado | Sistema para seleção de planos | 🟨🟨 | ❌ Não iniciado |
+| Interface de Visualização e Edição de Dados Pessoais | Geral | Interface onde o usuário poderá editar seus dados pessoais básicos | 🟩 | ❌ Não iniciado |
+| Sistema de Visualização e Edição de Dados Pessoais | Geral | Sistema para editar dados pessoais básicos do usuário | 🟩 | ❌ Não iniciado |
 
 <h1> </h1>
 
@@ -173,8 +175,8 @@
 | --- | --- | --- | --- | --- |
 | Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ❌ Não iniciado |
 | Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ❌ Não iniciado |
-| Interface para visualização e seleção de Program Tasks  | Parceiro Registrado | Interface para visualização e seleção de planos | 🟨🟨 | ❌ Não iniciado |
-| Sistema para seleção de Program Tasks  | Parceiro Registrado | Sistema para seleção de planos | 🟨🟨 | ❌ Não iniciado |
+| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ❌ Não iniciado |
+| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ❌ Não iniciado |
 | Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ❌ Não iniciado |
 | Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ❌ Não iniciado |
 | Telas de Erro | Geral |  | 🟩 | ❌ Não iniciado |
