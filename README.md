@@ -15,7 +15,7 @@
   <a href ="#bpmn"> BPMN </a>  •
   <a href ="#burndown-das-sprints"> Burndown das Sprints </a>  •
   <a href ="#modelagem-banco"> Modelagem do Banco de Dados </a>  •
-  <a href ="#review">Sprint Reviews</a>  •
+  <!--<a href ="#review">Sprint Reviews</a>  •-->
   <a href ="#equipe">Equipe</a>
 </p>
 
@@ -249,16 +249,16 @@
 
 ## :cd: Modelagem do Banco de Dados
 
-<h1 align="center"><img src="" /></h1> 
+<h1 align="center"><img src="https://github.com/atomofatec/API-ORACLE/blob/main/images/modelagem-banco-oracle.png" /></h1> 
 
 <br>
 
 
 <span id="review">
 
-## :camera_flash: Sprint Reviews
+<!--## :camera_flash: Sprint Reviews
 
-<h3>Video Sprint Review 1</h3>
+<h3>Video Sprint Review 1</h3> -->
 
 <!-- **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 1.**  
 > [Sprint Review 1]()
