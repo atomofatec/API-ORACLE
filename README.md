@@ -15,7 +15,7 @@
   <a href ="#bpmn"> BPMN </a>  •
   <a href ="#burndown-das-sprints"> Burndown das Sprints </a>  •
   <a href ="#modelagem-banco"> Modelagem do Banco de Dados </a>  •
-  <!--<a href ="#review">Sprint Reviews</a>  •-->
+  <a href ="#review">Sprint Reviews</a>  •
   <a href ="#equipe">Equipe</a>
 </p>
 
@@ -56,7 +56,7 @@
 ## :bulb: Protótipo
 
 **:link: Clique no link abaixo para visualizar o modelo do projeto.**  
-> [Protótipo do Projeto]()
+> [Protótipo do Projeto](https://www.figma.com/file/b7VEZbtTCFxI08IDgGwxoZ/Prot%C3%B3tipo---Oracle?type=design&node-id=0%3A1&mode=design&t=DYwEVPxpygYslksZ-1)
 
 <br>
 
@@ -256,14 +256,14 @@
 
 <span id="review">
 
-<!--## :camera_flash: Sprint Reviews
+## :camera_flash: Sprint Reviews
 
-<h3>Video Sprint Review 1</h3> -->
+<h3>Video Sprint Review 1</h3>
 
-<!-- **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 1.**  
-> [Sprint Review 1]()
+**:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 1.**
+> [Sprint Review 1](https://youtu.be/E-qonM5LjsU)
 
-<h3>Video Sprint Review 2</h3>
+<!--<h3>Video Sprint Review 2</h3>
 
 **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 2.**  
 > [Sprint Review 2]()
