@@ -213,7 +213,7 @@
   
 ## 📊 Business Process Model and Notation - BPMN
 
-[]()
+<h1 align="center"><img src="https://github.com/atomofatec/API-ORACLE/blob/main/images/bpmn_gestao_parceiros.jpeg" alt="BPMN"/></h1> 
 
 <br>
 
@@ -223,7 +223,7 @@
   
 <h3>1ª Sprint</h3>
 
-<h1 align="center"><img src="" alt="Burndown da Sprint 1"/></h1> 
+<h1 align="center"><img src="https://github.com/atomofatec/API-ORACLE/blob/main/images/burndown_sprint1.jpeg" alt="Burndown da Sprint 1"/></h1> 
 
 <br>
 
