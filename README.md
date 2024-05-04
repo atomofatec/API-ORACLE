@@ -13,7 +13,6 @@
   <br>
   <a href ="#stories"> User Stories </a>  •
   <a href ="#bpmn"> BPMN </a>  •
-  <a href ="#burndown-das-sprints"> Burndown das Sprints </a>  •
   <a href ="#modelagem-banco"> Modelagem do Banco de Dados </a>  •
   <a href ="#review">Sprint Reviews</a>  •
   <a href ="#equipe">Equipe</a>
@@ -67,13 +66,13 @@
 | Tarefa | Descrição | Prioridade | Status | User Stories |
 | --- | --- | --- | --- | --- |
 | Login | Sistema de login de usuários | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#login'> User Story 1 </a> |
-| Painel Inicial (Dashboard) | Visualização gráfica de dados relevantes e indicadores chave de desempenho | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
-| Acompanhamento de Desenvolvimento de Conhecimento | Tela para monitorar o conhecimento dos parceiros registrados e visualizar gráficos ou relatórios sobre o progresso | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
+| Painel Inicial (Dashboard) | Visualização gráfica de dados relevantes e indicadores chave de desempenho | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#dashboard'> User Story 3 </a> |
+| Acompanhamento de Desenvolvimento de Conhecimento | Tela para monitorar o conhecimento dos parceiros registrados e visualizar gráficos ou relatórios sobre o progresso | 🟥🟥🟥 | 🔧 Em progresso | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
 | Administração do Sistema | Tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão) | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#adm'> User Story 7 </a> |
 | Cadastro de Parceiros | Usuário ‘Funcionário’ cadastra usuário ‘Parceiro’ | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#cad_parc'> User Story 4 </a> |
-| Atualização de Parceiros | Usuário ‘Funcionário’ gerencia conta do usuário ‘Parceiro’ | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Atualização de Parceiros | Usuário ‘Funcionário’ gerencia conta do usuário ‘Parceiro’ | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#updt_parc'> User Story 5 </a> |
 | Visualizar e assinar Program Tracks | Usuário ‘Parceiro’ visualiza e assina melhor opção dentro das Program Tracks | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
-| Provas de conhecimento | Usuário ‘Parceiro’ realiza provas de conhecimento | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#provas'> User Story 10 </a> |
+| Provas de conhecimento | Usuário ‘Parceiro’ realiza provas de conhecimento | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#provas'> User Story 10 </a> |
 | Visualização de dados pessoais | Usuário pode visualizar e editar seus dados pessoais | 🟩 | ❌ Não iniciado | 🔴 <a href='#view_dados'> User Story 8 </a> |
 | Recuperação de Senha | Sistema para recuperar sua senha | 🟩 | ❌ Não iniciado | 🔴 <a href='#senha'> User Story 2 </a> |
 | Mensagens e Notificações | Mensagens e notificações do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#notificacoes'> User Story 11 </a> |
@@ -99,12 +98,12 @@
 | Sistema de exclusão de Administradores/Funcionários  | Administrador | Sistema de exclusão de Administradores e Funcionários | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#adm'> User Story 7 </a> |
 | Interface de Cadastro de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá cadastrar um Parceiro | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#cad_parc'> User Story 4 </a> |
 | Sistema de Cadastro de Parceiros  | Funcionário Oracle | Sistema de cadastro de Parceiros | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#cad_parc'> User Story 4 </a> |
-| Interface de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá editar ou excluir Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
-| Sistema de Atualização de Parceiros  | Funcionário Oracle | Sistema para atualização de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
-| Sistema de Exclusão de Parceiros | Funcionário Oracle | Sistema para exclusão de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#updt_parc'> User Story 5 </a> |
-| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
+| Interface de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá editar ou excluir Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Sistema de Atualização de Parceiros  | Funcionário Oracle | Sistema para atualização de Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Sistema de Exclusão de Parceiros | Funcionário Oracle | Sistema para exclusão de Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#updt_parc'> User Story 5 </a> |
+| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
 | Sistema para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Sistema que retorna os dados de desenvolvimento de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
-| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ❌ Não iniciado | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
+| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
 | Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
 | Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
 | Interface para visualização e seleção de Program Tasks  | Parceiro Registrado | Interface para visualização e seleção de planos | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
@@ -116,8 +115,8 @@
 | Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ❌ Não iniciado | 🔴 <a href='#notificacoes'> User Story 11 </a> |
 | Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ❌ Não iniciado | 🔴 <a href='#suporte'> User Story 12 </a> |
 | Telas de Erro | Geral | Interfaces de erros do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#erro'> User Story 13 </a> |
-| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟩 | ❌ Não iniciado | 🔴 <a href='#provas'> User Story 10 </a> |
-| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟩 | ❌ Não iniciado | 🔴 <a href='#provas'> User Story 10 </a> |
+| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟩 | ✅ Finalizada | 🔴 <a href='#provas'> User Story 10 </a> |
+| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟩 | ✅ Finalizada | 🔴 <a href='#provas'> User Story 10 </a> |
 
 <br>
 
@@ -144,13 +143,13 @@
 
 | Tarefa | Usuário | Descrição | Prioridade | Status |
 | --- | --- | --- | --- | --- |
-| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ❌ Não iniciado |
-| Interface de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá editar ou excluir Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de Atualização de Parceiros  | Funcionário Oracle | Sistema para atualização de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Sistema de Exclusão de Parceiros  | Funcionário Oracle | Sistema para exclusão de Parceiros Registrados | 🟥🟥🟥 | ❌ Não iniciado |
-| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟨🟨 | ❌ Não iniciado |
-| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟨🟨 | ❌ Não iniciado |
+| Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada |
+| Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ✅ Finalizada |
+| Interface de Atualização e Exclusão de Parceiros  | Funcionário Oracle | Interface onde o Funcionário irá editar ou excluir Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada |
+| Sistema de Atualização de Parceiros  | Funcionário Oracle | Sistema para atualização de Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada |
+| Sistema de Exclusão de Parceiros  | Funcionário Oracle | Sistema para exclusão de Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada |
+| Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟨🟨 | ✅ Finalizada |
+| Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟨🟨 | ✅ Finalizada |
 
 <h1> </h1>
 
@@ -217,34 +216,6 @@
 
 <br>
 
-<span id="burndown-das-sprints">
-
-## :chart_with_downwards_trend: Burndown das Sprints
-  
-<h3>1ª Sprint</h3>
-
-<h1 align="center"><img src="https://github.com/atomofatec/API-ORACLE/blob/main/images/burndown_sprint1.jpeg" alt="Burndown da Sprint 1"/></h1> 
-
-<br>
-
-<!-- <h3>2ª Sprint</h3>
-
-<h1 align="center"><img src="" alt="Burndown da Sprint 2"/></h1> 
-
-<br>
-
-<h3>3ª Sprint</h3>
-
-<h1 align="center"><img src="" alt="Burndown da Sprint 3"/></h1> 
-
-<br>
-
-  <h3>4ª Sprint</h3>
-
-<h1 align="center"><img src="" alt="Burndown da Sprint 4"/></h1> -->
-
-<br>
-
 <span id="modelagem-banco">
 
 ## :cd: Modelagem do Banco de Dados
@@ -263,12 +234,12 @@
 **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 1.**
 > [Sprint Review 1](https://youtu.be/E-qonM5LjsU)
 
-<!--<h3>Video Sprint Review 2</h3>
+<h3>Video Sprint Review 2</h3>
 
 **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 2.**  
-> [Sprint Review 2]()
+> [Sprint Review 2](https://youtu.be/7yYgfctTehE?si=xYAm-Pi1il6MXkVW)
 
-<h3>Video Sprint Review 3</h3>
+<!--<h3>Video Sprint Review 3</h3>
 
 **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 3.**  
 > [Sprint Review 3]()
