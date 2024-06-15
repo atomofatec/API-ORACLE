@@ -1,6 +1,5 @@
 # API-ORACLE
 
-
 <h1 align="center">API 5º Semestre 2024-1 - Equipe Átomo</h1>
 
 <p align="center">
@@ -14,6 +13,7 @@
   <a href ="#bpmn"> BPMN </a>  
   <br>
   <a href ="#modelagem-banco"> Modelagem do Banco de Dados </a>  •
+  <a href ="#documentos"> Documentação do Projeto </a>  •
   <a href ="#review">Sprint Reviews</a>  •
   <a href ="#equipe">Equipe</a>
 </p>
@@ -24,7 +24,7 @@
   
 ## :clipboard: O Projeto
 
-> **Status do Projeto: Em andamento**
+> **Status do Projeto: Concluído**
 
 - Desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
 
@@ -76,13 +76,13 @@
 | Administração do Sistema | Tela para gerenciar administradores ou funcionários do sistema (cadastro, edição, exclusão) | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#adm'> User Story 7 </a> |
 | Cadastro de Parceiros | Usuário ‘Funcionário’ cadastra usuário ‘Parceiro’ | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#cad_parc'> User Story 4 </a> |
 | Atualização de Parceiros | Usuário ‘Funcionário’ gerencia conta do usuário ‘Parceiro’ | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#updt_parc'> User Story 5 </a> |
-| Visualizar e assinar Program Tracks | Usuário ‘Parceiro’ visualiza e assina melhor opção dentro das Program Tracks | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
+| Visualizar e assinar Program Tracks | Usuário ‘Parceiro’ visualiza e assina melhor opção dentro das Program Tracks | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#program_tracks'> User Story 9 </a> |
 | Provas de conhecimento | Usuário ‘Parceiro’ realiza provas de conhecimento | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#provas'> User Story 10 </a> |
-| Visualização de dados pessoais | Usuário pode visualizar e editar seus dados pessoais | 🟩 | ❌ Não iniciado | 🔴 <a href='#view_dados'> User Story 8 </a> |
-| Recuperação de Senha | Sistema para recuperar sua senha | 🟩 | ❌ Não iniciado | 🔴 <a href='#senha'> User Story 2 </a> |
-| Mensagens e Notificações | Mensagens e notificações do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#notificacoes'> User Story 11 </a> |
-| Ajuda e Suporte | Tela de ajuda e suporte | 🟩 | ❌ Não iniciado | 🔴 <a href='#suporte'> User Story 12 </a> |
-| Telas de Erro | Telas de erro do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#erro'> User Story 13 </a> |
+| Visualização de dados pessoais | Usuário pode visualizar e editar seus dados pessoais | 🟩 | ✅ Finalizada | 🔴 <a href='#view_dados'> User Story 8 </a> |
+| Recuperação de Senha | Sistema para recuperar sua senha | 🟩 | ✅ Finalizada | 🔴 <a href='#senha'> User Story 2 </a> |
+| Mensagens e Notificações | Mensagens e notificações do sistema | 🟩 | ✅ Finalizada | 🔴 <a href='#notificacoes'> User Story 11 </a> |
+| Ajuda e Suporte | Tela de ajuda e suporte | 🟩 | ✅ Finalizada | 🔴 <a href='#suporte'> User Story 12 </a> |
+| Telas de Erro | Telas de erro do sistema | 🟩 | ✅ Finalizada | 🔴 <a href='#erro'> User Story 13 </a> |
 
 </details>
 
@@ -112,17 +112,17 @@
 | Interface para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Interface onde o Funcionário poderá acompanhar o progresso de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
 | Sistema para monitorar o desenvolvimento de conhecimento dos parceiros  | Funcionário Oracle | Sistema que retorna os dados de desenvolvimento de conhecimento dos Parceiros Registrados | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
 | Sistema para retorno de dados para gráficos ou relatórios que mostram o progresso  | Funcionário Oracle | Sistema que retorna dados dos Parceiros Registrados para elaboração de gráficos e relatórios | 🟥🟥🟥 | ✅ Finalizada | 🔴 <a href='#acomp_conhec'> User Story 6 </a> |
-| Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
-| Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#dashboard'> User Story 3 </a> |
-| Interface para visualização e seleção de Program Tasks  | Parceiro Registrado | Interface para visualização e seleção de planos | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
-| Sistema para seleção de Program Tasks  | Parceiro Registrado | Sistema para seleção de planos | 🟨🟨 | ❌ Não iniciado | 🔴 <a href='#program_tracks'> User Story 9 </a> |
-| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ❌ Não iniciado | 🔴 <a href='#senha'> User Story 2 </a> |
-| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ❌ Não iniciado | 🔴 <a href='#senha'> User Story 2 </a> |
-| Interface de Visualização e Edição de Dados Pessoais | Geral | Interface onde o usuário poderá editar seus dados pessoais básicos | 🟩 | ❌ Não iniciado | 🔴 <a href='#view_dados'> User Story 8 </a> |
-| Sistema de Visualização e Edição de Dados Pessoais | Geral | Sistema para editar dados pessoais básicos do usuário | 🟩 | ❌ Não iniciado | 🔴 <a href='#view_dados'> User Story 8 </a> |
-| Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ❌ Não iniciado | 🔴 <a href='#notificacoes'> User Story 11 </a> |
-| Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ❌ Não iniciado | 🔴 <a href='#suporte'> User Story 12 </a> |
-| Telas de Erro | Geral | Interfaces de erros do sistema | 🟩 | ❌ Não iniciado | 🔴 <a href='#erro'> User Story 13 </a> |
+| Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#dashboard'> User Story 3 </a> |
+| Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#dashboard'> User Story 3 </a> |
+| Interface para visualização e seleção de Program Tasks  | Parceiro Registrado | Interface para visualização e seleção de planos | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#program_tracks'> User Story 9 </a> |
+| Sistema para seleção de Program Tasks  | Parceiro Registrado | Sistema para seleção de planos | 🟨🟨 | ✅ Finalizada | 🔴 <a href='#program_tracks'> User Story 9 </a> |
+| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ✅ Finalizada | 🔴 <a href='#senha'> User Story 2 </a> |
+| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ✅ Finalizada | 🔴 <a href='#senha'> User Story 2 </a> |
+| Interface de Visualização e Edição de Dados Pessoais | Geral | Interface onde o usuário poderá editar seus dados pessoais básicos | 🟩 | ✅ Finalizada | 🔴 <a href='#view_dados'> User Story 8 </a> |
+| Sistema de Visualização e Edição de Dados Pessoais | Geral | Sistema para editar dados pessoais básicos do usuário | 🟩 | ✅ Finalizada | 🔴 <a href='#view_dados'> User Story 8 </a> |
+| Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ✅ Finalizada | 🔴 <a href='#notificacoes'> User Story 11 </a> |
+| Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ✅ Finalizada | 🔴 <a href='#suporte'> User Story 12 </a> |
+| Telas de Erro | Geral | Interfaces de erros do sistema | 🟩 | ✅ Finalizada | 🔴 <a href='#erro'> User Story 13 </a> |
 | Interface para realização de provas de conhecimento  | Parceiro Registrado | Interface onde o Parceiro Registrado irá realizar testes de conhecimento | 🟩 | ✅ Finalizada | 🔴 <a href='#provas'> User Story 10 </a> |
 | Sistema para medição de conhecimento através de provas  | Parceiro Registrado | Sistema que irá medir o conhecimento do parceiro a partir dos testes realizados | 🟩 | ✅ Finalizada | 🔴 <a href='#provas'> User Story 10 </a> |
 
@@ -184,13 +184,13 @@
 
 | Tarefa | Usuário | Descrição | Prioridade | Status |
 | --- | --- | --- | --- | --- |
-| Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ❌ Não iniciado |
-| Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ❌ Não iniciado |
-| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ❌ Não iniciado |
-| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ❌ Não iniciado |
-| Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ❌ Não iniciado |
-| Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ❌ Não iniciado |
-| Telas de Erro | Geral |  | 🟩 | ❌ Não iniciado |
+| Interface para visualização de progresso de desenvolvimento  | Parceiro Registrado | Interface onde o Parceiro poderá visualizar seu progresso | 🟨🟨 | ✅ Finalizada |
+| Sistema de amostra de dados de progresso de desenvolvimento  | Parceiro Registrado | Sistema que coleta os dados de progresso do Parceiro | 🟨🟨 | ✅ Finalizada |
+| Interface de Recuperação de Senha | Geral | Interface para recuperação de senha de usuário | 🟩 | ✅ Finalizada |
+| Sistema de Recuperação de Senha | Geral | Sistema de recuperação de senha do usuário | 🟩 | ✅ Finalizada |
+| Mensagens e Notificações | Geral | Sistema de mensagens e notificações | 🟩 | ✅ Finalizada |
+| Ajuda e Suporte | Geral | Interface de Ajuda e Suporte | 🟩 | ✅ Finalizada |
+| Telas de Erro | Geral |  | 🟩 | ✅ Finalizada |
 
 <h1> </h1>
 
@@ -238,6 +238,12 @@
 
 <br>
 
+<span id="documentos">
+
+## 📑: Documentação do Projeto
+
+**:link: Clique no link abaixo para acessar e baixar as documentações do projeto.**
+> [Documentação](https://github.com/atomofatec/API-ORACLE/tree/main/docs)
 
 <span id="review">
 
@@ -258,10 +264,10 @@
 **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 3.**  
 > [Sprint Review 3](https://youtu.be/tCLMGbH-DMo)
 
-<!--<h3>Video Sprint Review 4</h3>
+<h3>Video Sprint Review 4</h3>
 
 **:link: Clique no link abaixo para assistir ao vídeo da Sprint Review 4.**  
-> [Sprint Review 4]() -->
+> [Sprint Review 4](https://youtu.be/Vhah6CHn2F0)
 
 <!-- //
 <span id="produto">
