@@ -240,7 +240,7 @@
 
 <span id="documentos">
 
-## 📑: Documentação do Projeto
+## 📑 Documentação do Projeto
 
 **:link: Clique no link abaixo para acessar e baixar as documentações do projeto.**
 > [Documentação](https://github.com/atomofatec/API-ORACLE/tree/main/docs)
